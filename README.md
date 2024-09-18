@@ -1,4 +1,5 @@
-https://mosnad-web01.github.io/Abdulmajeed-rest-countries-api-with-color-theme-switcher-master/
+https://mosnad-web01.github.io/Feras-Swed-rest-countries-api-with-color-theme-switcher-master-main/
+
 # Frontend Mentor - REST Countries API with color theme switcher
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
